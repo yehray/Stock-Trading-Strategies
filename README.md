@@ -5,7 +5,8 @@ Implemented a stock trading algorithms using technical indicators such as moving
 Implemented trading strategies using Python with Numpy and Pandas. 
 
 
-#Results
+# Results
+
 **Key: Green line – long, Red line – short, Black line - stop**
 
 **![](plots/bollingerband.png)**
